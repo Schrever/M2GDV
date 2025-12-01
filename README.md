@@ -1,2 +1,2 @@
 # M2GDV
-![alt text](../img/pegglelevel.png)
+![alt text](pegglelevel2.png)
