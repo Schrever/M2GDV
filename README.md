@@ -1,4 +1,5 @@
 # M2GDV
+
 Titel (werktitel)
 Schrijf hier de naam van je spel.
 
@@ -20,4 +21,9 @@ Structuur van het level
 Bovenaan: schietplek.
 Midden: veld met targets.
 Onderaan: opvang of doelgebied voor het einde van de beurt.
+
 ![alt text](img/pegglelevel.png)
+
+GIF van Les 2.1
+
+![alt text](img/ezgif-506c40d1b0cc6d7f.gif)
