@@ -27,3 +27,7 @@ Onderaan: opvang of doelgebied voor het einde van de beurt.
 GIF van Les 2.1
 
 ![alt text](img/ezgif-506c40d1b0cc6d7f.gif)
+
+2.2 Aim, Shoot en Line
+
+![alt text](img/ezgif-74e1eb3f1d72d92f.gif)
