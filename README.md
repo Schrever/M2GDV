@@ -31,3 +31,7 @@ GIF van Les 2.1
 2.2 Aim, Shoot en Line
 
 ![alt text](img/ezgif-74e1eb3f1d72d92f.gif)
+
+Les 3.1 Week 3 – Score & Triggers Opdracht
+
+![alt text](img/ezgif-272a0f7a68e1b902.gif)
